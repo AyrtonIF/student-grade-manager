@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Joao Ayrton",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "dependencies": {
+    "uuid": "^13.0.0"
+  }
 }
