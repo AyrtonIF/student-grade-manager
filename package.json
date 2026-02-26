@@ -1,0 +1,13 @@
+{
+  "name": "student-grade-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joao Ayrton",
+  "license": "ISC",
+  "type": "commonjs"
+}
